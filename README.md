@@ -1,10 +1,12 @@
-# Book Template
+# God's Way of Holiness
+
+### by Horatius Bonar
 
 ## Warhorn Classics
 
-## 2020
+## 2021
 
-This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started.
+Description needed...
 
 Available for your reading pleasure here:
-https://warhornmedia.github.io/warhorn-classics-book-template
+https://warhornmedia.github.io/bonar-holiness
