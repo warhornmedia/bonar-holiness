@@ -4,9 +4,9 @@
 
 ## Warhorn Classics
 
-## 2021
+## 1864
 
-Description needed...
+"How shall we, that are dead to sin, live any longer therein?" —Romans 6:2
 
 Available for your reading pleasure here:
 https://warhornmedia.github.io/bonar-holiness

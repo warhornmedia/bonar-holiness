@@ -2,9 +2,9 @@
 title: "God's Way of Holiness"
 author: "Horatius Bonar"
 date: "1864"
-description: "Needs description"
+description: "'How shall we, that are dead to sin, live any longer therein?' —Romans 6:2"
 params:
-  scans: ""
+  scans: "https://archive.org/details/godswayofholines00bona/page/n3/mode/2up"
   build: "2"
 cover-image: "cover.jpg"
 url: "https://warhornmedia.github.io/bonar-holiness/"
